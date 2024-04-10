@@ -1,6 +1,6 @@
 Application de gestion de projets étudiants pour enseignants en Java. Conception et Gestion de bases de données respectant certaines contraintes comme l’intégrité, la cohérence et la non redondance.
 
-La développement de l'application se situe au croisement de trois aspects différents de la programmation Objet : le langage java de base pour la conception et l’interaction entre ces objets, le langage SQL pour la gestion, le stockage et la caractérisation des liens / contraintes entre ces objets, et enfin le langage Swing pour la conception de l’interface graphique afin de permettre à l’utilisateur de visualiser toutes ces entités.
+La développement de l'application se situe au croisement de trois aspects différents de la programmation Objet : le langage java de base pour la conception et l’interaction entre les objets, le langage SQL pour la gestion, le stockage et la caractérisation des liens / contraintes entre ces objets, et enfin le langage Swing pour la conception de l’interface graphique afin de permettre à l’utilisateur de visualiser toutes ces entités.
 
 **Prérequis**
 
